@@ -1,2 +1,2 @@
-# react-poc
-Training React.js
+# GETTING STARTED: React.js
+
